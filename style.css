@@ -1,0 +1,16 @@
+.img{
+    width: 440px;
+    height: 288px;
+}
+.main_title{
+ color: white;
+}
+.main{
+    background-color: black;
+}
+.main_text{
+    color: white;
+}
+#link{
+    color: orange;
+}
